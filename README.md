@@ -1,7 +1,5 @@
 <h2 align="center">Hola! Soy Agustina👋</h2>
 
-### Bienvenido a mi perfil 😄
-
 🎓 Estudiante de la Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento.
 
 ###  Navegando a través del universo de la programación:
