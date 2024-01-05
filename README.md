@@ -2,8 +2,6 @@
 
 🎓 Estudiante de la Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento.
 
-###  Navegando a través del universo de la programación:
-
 🖥️ Todos los proyectos que se encuentran aca, son producto de lo aprendido a lo largo de la carrera. 
 
 🖥️ Actualmente estoy aprendiendo tecnologías de desarrollo frontend HTML, CSS y JavaScript.
@@ -24,12 +22,14 @@ Tambien podes encontrarme en [![LinkedIn Badge](https://img.shields.io/badge/Lin
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="VueJS" src="https://img.shields.io/badge/VueJS-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="Go" src=  "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+
 
 </div>
 
