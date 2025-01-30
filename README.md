@@ -1,5 +1,6 @@
 <h2 align="center">Hola! Soy Agustina👋</h2>
 
+🎓 Técnica Universitaria en Informática recibida en la Universidad Nacional de General Sarmiento.
 🎓 Estudiante de la Licenciatura en Sistemas en la Universidad Nacional de General Sarmiento.
 
 🖥️ Todos los proyectos que se encuentran aca, son producto de lo aprendido a lo largo de la carrera. 
